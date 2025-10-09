@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from google import genai
 from google.genai import types
-
+#Gemini API KEY = AIzaSyDajQx2TdF2jH41iFchU_CaQCIzSsLpSr0
 # Set page configuration
 st.set_page_config(
     page_title="Lecture Voice-to-Notes Generator",
